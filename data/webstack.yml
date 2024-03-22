@@ -82,7 +82,7 @@
           url: https://cdn.404888.xyz/findshell.php
           description: Finalshell授权码生成。
         - title: fofa
-          logo: fofa.ico
+          logo: images/logos/fofa.ico
           url: https://fofa.info/
           description: 网络空间测绘
         - title: docker命令转compose 
@@ -157,35 +157,31 @@
     - term: 影视搜索
       links:
         - title: 影猫仓库
-          logo: ymck.ico
           url: https://ymck.pro/
           description: 电影网站目录。
         - title: 盘有圈
-          logo: panyq.ico
           url: https://panyq.com/
           description: 网盘聚合搜索。
         - title: 云盘盘
-          logo: yppan.ico
           url: https://www.yppan.com/
           description: 阿里云盘资源分享。
         - title: YaPan
-          logo: yapan.ico
           url: https://yapan.io/
           description: 阿里云盘资源分享。
         - title: 阿里云盘影视论坛
-          logo: aliyunpan.ico
+          logo: images/logos/aliyunpan.ico
           url: https://drivebbs.com/forum.php
           description: 阿里云盘资源分享。
         - title: 阿里云盘分享文档
-          logo: aliyunpan.ico
+          logo: images/logos/aliyunpan.ico
           url: https://docs.qq.com/sheet/DVHpJVmRhT3ViV09Q?tab=BB08J2
           description: 阿里云盘资源分享。
         - title: 爱达杂货铺
-          logo: adzhp.ico
+          logo: images/logos/adzhp.ico
           url: https://adzhp.xyz/mian-fei-shi-pin.html
           description: 免费在线视频网站资源索引。
         - title: 饭太硬
-          logo: fty.ico
+          logo: images/logos/fty.ico
           url: https://www.xn--sss604efuw.top/
           description: TV-Box导航。
     
@@ -194,45 +190,45 @@
     - term: 在线视频
       links:
         - title: 独播库
-          logo: duboku.ico
+          logo: images/logos/duboku.ico
           url: https://www.duboku.tv/
           description: 独播库。
         - title: 低端影视
-          logo: ddys.ico
+          logo: images/logos/ddys.ico
           url: https://ddys.info/
           description: 优质影视资源在线观看。
         - title: LIBVIO
-          logo: libvio.ico
+          logo: images/logos/libvio.ico
           url: https://www.libvio.pw/
           description: 海外影视资源为主的老牌在线视频网站。
         - title: 大师兄影视
-          logo: dsxys.ico
+          logo: images/logos/dsxys.ico
           url: https://dsxys.pro/
           description: 大师兄影视。
         - title: 哔嘀影视
-          logo: bdys.ico
+          logo: images/logos/bdys.ico
           url: https://www.bdys10.com/
           description: 在线观看加BT下载。
         - title: 硬核指南
-          logo: yinghe.ico
+          logo: images/logos/yinghe.ico
           url: https://yinghe.app/
           description: 影视站导航。
     - term: BT下载
       links:
         - title: YIFY
-          logo: yts.ico
+          logo: images/logos/yts.ico
           url: https://yts.mx/
           description: 最小文件大小的高清电影（仅电影）。
         - title: BT之家
-          logo: 1lou.ico
+          logo: images/logos/1lou.ico
           url: https://www.1lou.me/
           description: 综合下载。
         - title: MINI4K
-          logo: mini4k.ico
+          logo: images/logos/mini4k.ico
           url: https://www.mini4k.com/
           description: 页面简洁，资源丰富。 
         - title: 中国高清网
-          logo: gaoqing.ico
+          logo: images/logos/gaoqing.ico
           url: https://gaoqing.la/
           description: 高清电影下载。
 
