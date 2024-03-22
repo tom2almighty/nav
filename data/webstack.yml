@@ -3,19 +3,15 @@
   icon: fa-solid fa-star
   links:
     - title: 个人主页
-      logo: tom.ico
       url: https://www.grew.cc/
       description: 个人主页。
     - title: 博客
-      logo: tom.ico
       url: https://blog.grew.cc/
       description: 个人博客，通过 NotionNext 搭建。
     - title: Hugo 版博客
-      logo: tom.ico
       url: https://hugo.grew.cc/
       description: 个人博客，通过Hugo搭建。
     - title: 网盘
-      logo: alist.svg
       url: https://pan.grew.cc/
       description: 个人网盘。
 
@@ -23,90 +19,73 @@
   icon: fa-regular fa-newspaper
   links: 
     - title: V2EX
-      logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
     - title: Hostloc
-      logo: hostloc.webp
       url: https://hostloc.com/
       description: Hostloc 论坛。
     - title: NodeSeek
-      logo: nodeseek.png
       url: https://nodeseek.com/
       description: NodeSeek 论坛。
+
 - taxonomy: 工具集合
   icon: fa-solid fa-wrench
   list:
     - term: 个人工具
       links:
         - title: NextChat
-          logo: nextchat.ico
           url: https://chat.grew.cc/
           description: NextChat 是一个跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。
         - title: 订阅转换
-          logo: sub.jpg
-          url: https://sub2.grew.cc/
+          url: https://sub.grew.cc/
           description: 订阅转换。
         - title: IP查询
-          logo: ip.svg
           url: https://ip.grew.cc/
           description: IP查询。
         - title: Linux命令搜索
-          logo: linux.png
           url: https://linux.grew.cc
           description: Linux命令搜索。
         - title: markdown转html
-          logo: 
           url: https://md2.grew.cc/
           description: markdown转html。
 
     - term: 在线图床
       links:
-        - title: IMGDD
-          logo: 
+        - title: IMGDD 
           url: https://imgdd.com/
           description: 免费、快速在全球范围内传送图像。
         - title: Dooong公益图床
-          logo: 
           url: https://image.dooo.ng/
           description: 你用过最快的公益图床。
         - title: 聚合图床
-          logo: superbed.ico
           url: https://www.superbed.cn/
           description: 国内访问迅速。
         - title: PicX
-          logo: picx.ico
           url: https://picx.xpoet.cn/#/
           description: 基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
     
     - term: 在线工具
       links:
         - title: 临时邮箱
-          logo: tempmail.ico
           url: https://temp-mail.org/zh/
           description: 临时邮箱。
         - title: 虚拟地址
-          logo: fakeaddress.ico
           url: https://www.fakeaddressgenerator.com/
           description: 虚拟地址生成器。
         - title: 在线接码
-          logo: sim.ico
           url: https://sms-activate.org/cn
           description: 在线接码。
         - title: 在线打字
-          logo: typing-cn.ico
           url: https://barneyzhao.gitee.io/typing-cn/
           description: 在线打字练习。
-        - title: Finalshell授权码
-          logo: 
+        - title: Finalshell授权码 
           url: https://cdn.404888.xyz/findshell.php
           description: Finalshell授权码生成。
         - title: fofa
           logo: fofa.ico
           url: https://fofa.info/
           description: 网络空间测绘
-        - title: docker命令转compose
-          logo: 
+        - title: docker命令转compose 
           url: https://www.composerize.com/
           description: docker命令转compose。
     - term: 在线配色
@@ -171,8 +150,6 @@
           url: http://www.vanschneider.com/colors
           logo: images/logos/vanschneider.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-
-
 
 - taxonomy: 影视资源
   icon: fa-solid fa-film
@@ -258,28 +235,6 @@
           logo: gaoqing.ico
           url: https://gaoqing.la/
           description: 高清电影下载。
-
-- taxonomy: 灵感采集
-  icon: fa-regular fa-lightbulb
-  list:       
-    - term: 界面灵感
-      links:
-        - title: Pttrns
-          logo: images/logos/Pttrns.png
-          url: https://www.pttrns.com/
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-        - title: Collect UI
-          logo: images/logos/CollectUI.png
-          url: http://collectui.com/
-          description: Daily inspiration collected from daily ui archive and beyond.
-        - title: UI uigreat
-          logo: images/logos/uiuigreat.png
-          url: http://ui.uigreat.com/
-          description: APP界面截图参考
-        - title: Android Niceties
-          logo: images/logos/AndroidNiceties.png
-          url: https://androidniceties.tumblr.com/
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
 
 - taxonomy: 素材资源
   icon: fa-thumbs-up
@@ -685,7 +640,6 @@
           logo: images/logos/500d.png
           description: 中国领先的PPT模板共享平台
       
-
 - taxonomy: 设计工具
   icon: fa-palette
   list: 
@@ -746,6 +700,7 @@
           url: https://www.figma.com/
           logo: images/logos/figma.png
           description: Design, prototype, and gather feedback all in one place with Figma.
+
     - term: 交互动效
       links:
         - title: Adobe After Effects CC
@@ -768,9 +723,6 @@
           url: http://www.protopie.cn/
           logo: images/logos/protopie.png
           description: 高保真交互原型设计
-
-
-
 
 - taxonomy: 学习教程
   icon: fa-regular fa-folder-open
@@ -797,7 +749,6 @@
           url: http://viggoz.com/photoshopetiquette/
           logo: images/logos/photoshopetiquette.png
           description: PS礼仪-WEB设计指南
-
       
     - term: 视频教程
       links:
@@ -874,8 +825,6 @@
           url: http://uxren.cn/
           logo: images/logos/uxren.png
           description: 用户体验人的专业社区
-
-
      
 - taxonomy: 友情链接
   icon: fa-link
