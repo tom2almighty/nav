@@ -152,12 +152,26 @@
         - title: SubHD
           url: https://subhd.tv/
           description: 字幕下载。
-        - title: Subscene
-          url: https://subscene.com/
+        - title: opensubtitles
+          url: https://www.opensubtitles.org/zh
           description: 字幕下载。
-        - title: Shooter
-          url: https://www.shooter.cn/
-          description: 射手字幕。
+        - title: 人人影视字幕组
+          url: https://www.yysub.net/
+          description: 人人影视字幕组。
+        - title: 射手网（伪）
+          url: https://assrt.net/
+          description: 字幕下载。
+        - title: 字幕库
+          url: https://srtku.com/
+          description: 字幕下载。
+        - title: FIX字幕侠
+          url: https://www.zimuxia.cn/
+          description: FIX字幕组作品
+        - title: 诸神字幕组
+          url: https://subs.kamigami.org/
+          description: 诸神字幕组，做最好的中日双语字幕。
+
+
 
 - taxonomy: 工具集合
   icon: fa-solid fa-wrench
@@ -215,6 +229,12 @@
         - title: pdf24tools
           url: https://tools.pdf24.org/zh/
           description: PDF24 工具。
+        - title: IP可用性检测
+          url: https://www.toolsdaquan.com/ipcheck/
+          description: IP可用性检测
+        - title: IP查询
+          url: https://ip.skk.moe/
+          description: IP查询
         - title: 站长之家
           url: https://tool.chinaz.com/
           description: 站长工具。
@@ -228,12 +248,6 @@
           logo: images/logos/fofa.ico
           url: https://fofa.info/
           description: 网络空间测绘 
-        - title: IP可用性检测
-          url: https://www.toolsdaquan.com/ipcheck/
-          description: IP可用性检测
-        - title: IP查询
-          url: https://ip.skk.moe/
-          description: IP查询
         - title: Google学术镜像站
           url: https://ac.scmor.com/
           description: Google学术镜像站导航。
@@ -361,6 +375,18 @@
         - title: Pexels
           url: https://www.pexels.com/
           description: 最佳免费高清照片一站式服务。
+        - title: wallspic
+          url: https://wallspic.com/
+          description: 为您的设备提供高清壁纸。
+        - title: Wallhaven
+          url: https://wallhaven.cc/
+          description: Wallhaven 是一个由壁纸爱好者创建的网站，也是一个动漫爱好者可以像正常人一样受到尊重的地方。
+        - title: wallpaperhub
+          url: https://www.wallpaperhub.app/
+          description: WallpaperHub - 为您的桌面、平板电脑和手机提供美丽的壁纸。
+        - title: dribbble
+          url: https://dribbble.com/
+          description: Dribbble 是设计师获取灵感、反馈、社区和工作的最佳资源，也是发现和连接全球设计师的最佳资源。
         - title: visualhunt
           url: https://visualhunt.com/
           logo: images/logos/visualhunt.png
@@ -457,15 +483,7 @@
           url: http://publicdomainarchive.com/
           logo: images/logos/publicdomainarchive.png
           description: 每周发布新的 100% 免费库存照片。
-        - title: Wallhaver
-          url: https://wallhaven.cc/
-          description: Wallhaven 是一个由壁纸爱好者创建的网站，也是一个动漫爱好者可以像正常人一样受到尊重的地方。
-        - title: wallpaperhub
-          url: https://www.wallpaperhub.app/
-          description: WallpaperHub - 为您的桌面、平板电脑和手机提供美丽的壁纸。
-        - title: dribbble
-          url: https://dribbble.com/
-          description: Dribbble 是设计师获取灵感、反馈、社区和工作的最佳资源，也是发现和连接全球设计师的最佳资源。
+
     - term: PPT资源
       links:
         - title: OfficePLUS
