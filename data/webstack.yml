@@ -63,6 +63,12 @@
     - title: NodeSeek
       url: https://nodeseek.com/
       description: NodeSeek 论坛。
+    - title: Azure额度查询
+      url: https://www.microsoftazuresponsorships.com/
+      description: Azure额度查询。
+    - title: E5剩余时间查询
+      url: https://developer.microsoft.com/zh-cn/office/profile
+      description: E5剩余时间查询。
 
 - taxonomy: 影视资源
   icon: fa-solid fa-film
@@ -223,6 +229,9 @@
         - title: Finalshell授权码 
           url: https://cdn.404888.xyz/findshell.php
           description: Finalshell授权码生成。
+        - title: Finallshell专业版
+          url: https://finalshell.callmy.cn/
+          description: FinalShell专业版是一体化的的服务器, 网络管理软件, 不仅是SSH客户端, 还是功能强大的开发, 运维工具, 充分满足开发, 运维需求。
         - title: docker命令转compose 
           url: https://www.composerize.com/
           description: docker命令转compose。
@@ -257,6 +266,9 @@
         - title: 模块集合
           url: https://whatshub.top/
           description: 模块集合。
+        - title: 老姨子
+          url: https://github.com/LaoYiZi-Media/unblock/wiki/%E8%80%81%E5%A7%A8%E5%AD%90%E8%A7%A3%E9%94%81
+          description: LYZ解锁
 
 - taxonomy: 素材资源
   icon: fa-thumbs-up
@@ -616,6 +628,9 @@
     - title: 礼品卡购买
       url: https://www.turgame.com/
       description: 礼品卡购买。
+    - title: 流媒体解锁
+      url: https://nfdns.top/
+      description: 流媒体解锁
 - taxonomy: 友情链接
   icon: fa-link
   friend:
