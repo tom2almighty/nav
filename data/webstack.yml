@@ -214,6 +214,9 @@
         - title: IT在线工具箱
           url: https://tool.hitboxes.top/
           description: IT在线工具箱
+        - title: 开发者武器库
+          url: https://devtool.tech/
+          description: 开发者武器库。
         - title: 临时邮箱
           url: https://temp-mail.org/zh/
           description: 临时邮箱。
@@ -241,6 +244,12 @@
         - title: docsmall
           url: https://www.docsmall.com/
           description: 在线文档转换。
+        - title: html转markdown
+          url: https://www.helloworld.net/html2md
+          description: helloworld 开发者社区开源的一个轻量级，强大的 html 一键转 md 工具，支持多平台文章一键转换，并保存下载到本地。
+        - title: 码途编辑器
+          url: https://markdown.devtool.tech/app
+          description: 码途编辑器。markdown转html，html解析。
         - title: pdf24tools
           url: https://tools.pdf24.org/zh/
           description: PDF24 工具。
