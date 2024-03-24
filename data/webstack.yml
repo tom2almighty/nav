@@ -235,6 +235,9 @@
         - title: docker命令转compose 
           url: https://www.composerize.com/
           description: docker命令转compose。
+        - title: 博客头图
+          url: https://coverview.vercel.app/editor
+          description: 博客头图制作。
         - title: docsmall
           url: https://www.docsmall.com/
           description: 在线文档转换。
