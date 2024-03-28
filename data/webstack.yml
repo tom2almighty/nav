@@ -253,6 +253,9 @@
         - title: pdf24tools
           url: https://tools.pdf24.org/zh/
           description: PDF24 工具。
+        - title: transfonter
+          url: https://transfonter.org/
+          description: 简约现代化 css @font-face 生成器
         - title: Google学术镜像站
           url: https://ac.scmor.com/
           description: Google学术镜像站导航。
@@ -267,8 +270,11 @@
         - title: IP可用性检测
           url: https://www.toolsdaquan.com/ipcheck/
           description: IP可用性检测
-        - title: IP查询
-          url: https://ip.skk.moe/
+        - title: IP.SB
+          url: https://ip.sb/
+          description: IP查询
+        - title: PING0
+          url: https://ping0.cc/
           description: IP查询
         - title: 站长之家
           url: https://tool.chinaz.com/
