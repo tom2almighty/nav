@@ -197,7 +197,7 @@
           url: https://picx.xpoet.cn/#/
           description: 基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
     
-    - term: 在线工具
+    - term: 实用工具
       links:
         - title: 果汁工具箱
           url: http://guozhivip.com/tool/
@@ -262,6 +262,15 @@
         - title: 老姨子
           url: https://github.com/LaoYiZi-Media/unblock/wiki/%E8%80%81%E5%A7%A8%E5%AD%90%E8%A7%A3%E9%94%81
           description: LYZ解锁
+        - title: Windows及office激活
+          url: https://massgrave.dev/index.html
+          description: Windows及office激活。
+        - title: GenP官方版
+          url: https://www.reddit.com/r/GenP/
+          description: Adobe系列软件激活。
+        - title: GenP非官方优化版
+          url: https://www.cybermania.ws/
+          description: Adobe系列软件激活。
     - term: 站长工具
       links:
         - title: IP可用性检测
