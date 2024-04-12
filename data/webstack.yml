@@ -10,10 +10,7 @@
       description: 个人主页。
     - title: 博客
       url: https://blog.grew.cc/
-      description: 个人博客，通过 NotionNext 搭建。
-    - title: Hugo 版博客
-      url: https://hugo.grew.cc/
-      description: 个人博客，通过 Hugo 搭建。
+      description: 个人博客，通过 Hugo 搭建，使用 Stack 主题。
     - title: Alist网盘
       url: https://pan.grew.cc/
       description: 个人网盘。
