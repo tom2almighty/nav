@@ -232,6 +232,9 @@
         - title: 博客头图
           url: https://coverview.vercel.app/editor
           description: 博客头图制作。
+        - title: 代码高亮图片
+          url: https://carbon.now.sh/
+          description: 代码高亮图片。
         - title: docsmall
           url: https://www.docsmall.com/
           description: 在线文档转换。
@@ -319,6 +322,9 @@
         - title: jsdelivr镜像站
           url: https://jsd.cdn.zzko.cn/
           description: jsdelivr镜像站，提供了丰富的开源库，可以加速你的网站。
+        - title: BootCDN
+          url: https://www.bootcdn.cn/
+          description: BootCDN 是 Bootstrap 中文网和又拍云联合支持并维护的前端开源项目免费 CDN 服务。
 
 
 
