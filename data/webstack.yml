@@ -126,6 +126,9 @@
           logo: images/logos/yinghe.ico
           url: https://yinghe.app/
           description: 影视站导航。
+        - title: HDmoli
+          url: https://www.hdmoli.pro/
+          description: 高品质在线影视资源。
     - term: BT下载
       links:
         - title: YIFY
