@@ -311,7 +311,7 @@
           url: https://fofa.info/
           description: 网络空间测绘 & 搜索引擎。
     
-    - terms: CDN加速
+    - term: CDN加速
       links:   
         - title: 七牛云CDN
           url: https://staticfile.net/
