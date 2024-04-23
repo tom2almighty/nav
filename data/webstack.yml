@@ -223,7 +223,7 @@
           url: https://devtool.tech/
           description: 开发者武器库。
 
-    - terms: 在线工具
+    - term: 在线工具
       links:
         - title: 临时邮箱
           url: https://temp-mail.org/zh/
