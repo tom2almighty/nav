@@ -1,8 +1,5 @@
-
-
-
 ---
-- taxonomy: 个人站点
+- taxonomy: 个人常用
   icon: fa-solid fa-star
   links:
     - title: 个人主页
@@ -10,7 +7,7 @@
       description: 个人主页。
     - title: 博客
       url: https://blog.grew.cc/
-      description: 个人博客，通过 Hugo 搭建，使用 Stack 主题。
+      description: 个人博客，通过 Hexo 搭建，使用 Butterfly 主题。
     - title: Alist网盘
       url: https://pan.grew.cc/
       description: 个人网盘。
@@ -32,28 +29,9 @@
     - title: 哪吒监控
       url: https://jk.grew.cc/
       description: 哪吒监控。
-
-- taxonomy: 常用站点
-  icon: fa-regular fa-newspaper
-  links: 
-    - title: bilibili
-      url: https://www.bilibili.com/
-      description: bilibili 哔哩哔哩。
     - title: GitHub
       url: https://github.com/
       description: GitHub。
-    - title: YouTube
-      url: https://www.youtube.com/
-      description: YouTube 视频网站。
-    - title: V2EX
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
-    - title: Hostloc
-      url: https://hostloc.com/
-      description: Hostloc 论坛。
-    - title: NodeSeek
-      url: https://nodeseek.com/
-      description: NodeSeek 论坛。
     - title: Azure额度查询
       url: https://www.microsoftazuresponsorships.com/
       description: Azure额度查询。
@@ -64,6 +42,36 @@
 - taxonomy: 影视资源
   icon: fa-solid fa-film
   list:
+    - term: 官方资源
+      links:
+        - title: Netflix
+          url: https://www.netflix.com/
+          description: 最大的流媒体平台
+        - title: Disney+
+          url: https://www.disneyplus.com/
+          description: 迪士尼官方流媒体平台。
+        - title: HBO Max
+          url: https://www.hbomax.com/
+          description: HBO Max 官方流媒体平台。
+        - title: Aamzon Prime Video
+          url: https://www.primevideo.com/
+          description: 亚马逊 Prime Video 官方流媒体平台。
+        - title: 爱奇艺
+          url: https://www.iqiyi.com/
+          description: 爱奇艺官方流媒体平台。
+        - title: 腾讯视频
+          url: https://v.qq.com/
+          description: 腾讯视频官方流媒体平台。
+        - title: 优酷
+          url: https://www.youku.com/
+          description: 优酷官方流媒体平台。
+        - title: YouTube
+          url: https://www.youtube.com/
+          description: YouTube 视频网站。
+        - title: Bilibili
+          url: https://www.bilibili.com/
+          description: bilibili 哔哩哔哩。
+
     - term: 影视搜索
       links:
         - title: 影猫仓库
@@ -100,6 +108,7 @@
         - title: Netflix全球搜索
           url: https://unogs.com/
           description: Netflix全球搜索。  
+
     - term: 在线视频
       links:
         - title: 独播库
@@ -129,6 +138,7 @@
         - title: HDmoli
           url: https://www.hdmoli.pro/
           description: 高品质在线影视资源。
+    
     - term: BT下载
       links:
         - title: YIFY
@@ -150,6 +160,7 @@
         - title: 音范丝
           url: https://yinfans.me
           description: 音乐、电影、电视剧、动漫、综艺等资源下载。
+    
     - term: 字幕下载
       links:
         - title: SubHD
@@ -194,7 +205,7 @@
           url: https://picx.xpoet.cn/#/
           description: 基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
     
-    - term: 实用工具
+    - term: 工具箱集合
       links:
         - title: 果汁工具箱
           url: http://guozhivip.com/tool/
@@ -211,6 +222,9 @@
         - title: 开发者武器库
           url: https://devtool.tech/
           description: 开发者武器库。
+
+    - terms: 在线工具
+      links:
         - title: 临时邮箱
           url: https://temp-mail.org/zh/
           description: 临时邮箱。
@@ -226,21 +240,18 @@
         - title: Finalshell授权码 
           url: https://cdn.404888.xyz/findshell.php
           description: Finalshell授权码生成。
-        - title: Finallshell专业版
-          url: https://finalshell.callmy.cn/
-          description: FinalShell专业版是一体化的的服务器, 网络管理软件, 不仅是SSH客户端, 还是功能强大的开发, 运维工具, 充分满足开发, 运维需求。
-        - title: docker命令转compose 
-          url: https://www.composerize.com/
-          description: docker命令转compose。
         - title: 博客头图
           url: https://coverview.vercel.app/editor
           description: 博客头图制作。
         - title: 代码高亮图片
           url: https://carbon.now.sh/
           description: 代码高亮图片。
+        - title: 截图美化工具
+          url: https://pretty-snap.iwhy.dev/
+          description: 为普通的截图添加渐变色背景、模糊阴影、圆角以及水印，简单易用。
         - title: docsmall
-          url: https://www.docsmall.com/
-          description: 在线文档转换。
+          url: https://docsmall.com/
+          description: 在线文档处理工具。
         - title: html转markdown
           url: https://www.helloworld.net/html2md
           description: helloworld 开发者社区开源的一个轻量级，强大的 html 一键转 md 工具，支持多平台文章一键转换，并保存下载到本地。
@@ -249,13 +260,10 @@
           description: 码途编辑器。markdown转html，html解析。
         - title: pdf24tools
           url: https://tools.pdf24.org/zh/
-          description: PDF24 工具。
+          description: 免费且易于使用的在线 PDF 工具。
         - title: transfonter
           url: https://transfonter.org/
           description: 简约现代化 css @font-face 生成器
-        - title: Google学术镜像站
-          url: https://ac.scmor.com/
-          description: Google学术镜像站导航。
         - title: 模块集合
           url: https://whatshub.top/
           description: 模块集合。
@@ -271,7 +279,11 @@
         - title: GenP非官方优化版
           url: https://www.cybermania.ws/
           description: Adobe系列软件激活。
-    - term: 站长工具
+        - title: 全球 Netflix 价格查询
+          url: https://nf.dy.ax/
+          description: 全球 Netflix 价格查询。
+    
+    - term: 网络工具
       links:
         - title: IP可用性检测
           url: https://www.toolsdaquan.com/ipcheck/
@@ -298,6 +310,9 @@
           logo: images/logos/fofa.ico
           url: https://fofa.info/
           description: 网络空间测绘 & 搜索引擎。
+    
+    - terms: CDN加速
+      links:   
         - title: 七牛云CDN
           url: https://staticfile.net/
           description: 免费、快速、开放的 CDN 服务。
@@ -395,6 +410,9 @@
         - title: 纯色
           url: https://color.qninq.cn/
           description: 纯色。
+        - title: 配色表
+          url: https://www.peisebiao.com/
+          descpiprion: 简单好用的配色工具
     - term: 图标素材
       links:
         - title: iconfont
@@ -428,20 +446,7 @@
         - title: tablericons
           url: https://tablericons.com/
           description: 800+ 可高度定制的免费 SVG 图标。   
-    - term: LOGO设计
-      links:
-        - title: Iconsfeed
-          logo: images/logos/iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS 图标库。
-        - title: iOS Icon Gallery
-          logo: images/logos/iosicongallery.png
-          url: http://iosicongallery.com/
-          description: 展示来自 iOS App Store 的精美图标设计。
-        - title: World Vector Logo
-          logo: images/logos/worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: 免费下载品牌标志。      
+
     - term: 摄影图库
       links:
         - title: Unsplash
@@ -560,25 +565,14 @@
           logo: images/logos/publicdomainarchive.png
           description: 每周发布新的 100% 免费库存照片。
 
-    - term: PPT资源
-      links:
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: images/logos/officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: images/logos/ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-        - title: tretars
-          url: http://www.tretars.com/ppt-templates
-          logo: images/logos/tretars.png
-          description: 网络上最好的免费模型。
 - taxonomy: 教育学习
   icon: fa-regular fa-folder-open
   list: 
     - term: 学习提升
       links:
+        - title: Google学术镜像站
+          url: https://ac.scmor.com/
+          description: Google学术镜像站导航。
         - title: 中国数字科学馆
           url: https://www.cdstm.cn/
           description: 中国数字科学馆。
@@ -603,7 +597,7 @@
     - term: 在线数据
       links:
         - title: 中国统计年鉴
-          url: http://www.stats.gov.cn/
+          url: https://www.stats.gov.cn/sj/ndsj/
           description: 中国统计年鉴。
         - title: 中国法院网
           url: https://www.chinacourt.org/law.shtml
@@ -679,6 +673,7 @@
       url: https://www.423down.com/
       description: 423Down。
 - taxonomy: 购物小店
+  icon: fa-solid fa-shopping-cart
   links:
     - title: Spotify会员购买
       url: https://shengpotian.net/
