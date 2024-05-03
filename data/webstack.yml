@@ -672,6 +672,21 @@
     - title: 423Down
       url: https://www.423down.com/
       description: 423Down。
+    - title: 歌曲宝
+      url: https://www.gequbao.com/
+      description: 歌曲下载
+    - title: HiFiNi 音乐磁场
+      url: https://www.hifini.com/
+      descpiprion: HiFiNi 音乐磁场。
+    - title: 音乐搜索器
+      url: https://music.haom.ren/
+      description: 多站合一音乐搜索解决方案。
+    - title: 放屁音乐网
+      url: https://www.fangpi.net/
+      descpiprion: 放屁音乐网。
+    - title: 下歌吧
+      url: https://xiageba.com/
+      description: 下歌吧。
 - taxonomy: 购物小店
   icon: fa-solid fa-shopping-cart
   links:
