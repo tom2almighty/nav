@@ -127,10 +127,10 @@
           logo: images/logos/dsxys.ico
           url: https://dsxys.pro/
           description: 大师兄影视。
-        - title: 哔嘀影视
+        - title: 缘觉影视
           logo: images/logos/bdys.ico
-          url: https://www.bdys10.com/
-          description: 在线观看加BT下载。
+          url: https://www.yjys02.com/
+          description: 原哔嘀影视，在线观看加BT下载。
         - title: 硬核指南
           logo: images/logos/yinghe.ico
           url: https://yinghe.app/
@@ -138,9 +138,9 @@
         - title: HDmoli
           url: https://www.hdmoli.pro/
           description: 高品质在线影视资源。
-        - title: 霸王龙压制组
-          url: https://t-rex.tzfile.com/
-          description: 霸王龙压制组。
+        - title: 厂长资源
+          url: https://czzy.top/
+          description: 厂长资源。
     
     - term: BT下载
       links:
@@ -148,6 +148,9 @@
           logo: images/logos/yts.ico
           url: https://yts.mx/
           description: 最小文件大小的高清电影（仅电影）。
+        - title: EZTVx
+          url: https://eztvx.to/
+          description: EZTVx 是一个专门为电视节目爱好者提供的电视节目下载网站。
         - title: BT之家
           logo: images/logos/1lou.ico
           url: https://www.1lou.me/
@@ -163,6 +166,19 @@
         - title: 音范丝
           url: https://yinfans.me
           description: 音乐、电影、电视剧、动漫、综艺等资源下载。
+        - title: 美剧粉
+          url: https://www.mjf2020.com/
+          description: 美剧下载。
+        - title: 无名小站
+          url: https://www.btnull.fun/
+          description: 原片库网。
+        - title: 磁力熊
+          url: https://www.cilixiong.com/
+          description: 磁力熊。
+        - title: 不太灵影视
+          url: https://www.2bt0.com/
+          descpiprion: 不太灵影视。
+
     
     - term: 字幕下载
       links:
@@ -187,6 +203,9 @@
         - title: 诸神字幕组
           url: https://subs.kamigami.org/
           description: 诸神字幕组，做最好的中日双语字幕。
+        - title: 霸王龙压制组
+          url: https://t-rex.tzfile.com/
+          description: 霸王龙压制组。
 
 
 
