@@ -274,6 +274,9 @@
         - title: 博客头图
           url: https://coverview.vercel.app/editor
           description: 博客头图制作。
+        - title: 文章banner制作
+          url: https://ijust.cc/tools/canvas
+          description: 通过样式快速调整博客 Banner
         - title: 代码高亮图片
           url: https://carbon.now.sh/
           description: 代码高亮图片。
