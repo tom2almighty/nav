@@ -598,6 +598,9 @@
           url: http://publicdomainarchive.com/
           logo: images/logos/publicdomainarchive.png
           description: 每周发布新的 100% 免费库存照片。
+        - title: WALLPAPER ABYSS
+          url: https://wall.alphacoders.com/
+          description: Alpha Coders 提供了数百万张免费壁纸，以及数百万张高清壁纸和背景图片。
 
 - taxonomy: 教育学习
   icon: fa-regular fa-folder-open
