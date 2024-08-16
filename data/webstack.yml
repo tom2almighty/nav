@@ -7,7 +7,7 @@
       description: 个人主页。
     - title: 博客
       url: https://blog.grew.cc/
-      description: 个人博客，通过 Hexo 搭建，使用 Butterfly 主题。
+      description: 个人博客，使用 Hugo 框架，Diary 主题。
     - title: Alist网盘
       url: https://pan.grew.cc/
       description: 个人网盘。
@@ -151,7 +151,7 @@
         - title: EZTVx
           url: https://eztvx.to/
           description: EZTVx 是一个专门为电视节目爱好者提供的电视节目下载网站。
-        - title: 
+        - title: TorrentGalaxy
           url: https://torrentgalaxy.to/
           description: TorrentGalaxy 是一个专门为电影爱好者提供的电影下载网站。
         - title: RARBG
