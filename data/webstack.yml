@@ -7,7 +7,7 @@
       description: 个人主页。
     - title: 博客
       url: https://blog.grew.cc/
-      description: 个人博客，使用 Hugo 框架，Diary 主题。
+      description: 个人博客。
     - title: Alist网盘
       url: https://pan.grew.cc/
       description: 个人网盘。
