@@ -316,6 +316,12 @@
         - title: 全球 Netflix 价格查询
           url: https://nf.dy.ax/
           description: 全球 Netflix 价格查询。
+        - title: Technical City
+          url: https://technical.city/zh
+          description: 显卡和处理器对比及排行榜。
+        - title: TOPCPU
+          url: https://www.topcpu.net/
+          descriprion: CPU,GPU,显卡,性能评测,跑分榜,天梯图,排行榜,比较,对比
     
     - term: 网络工具
       links:
