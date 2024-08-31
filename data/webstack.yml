@@ -322,6 +322,9 @@
         - title: TOPCPU
           url: https://www.topcpu.net/
           descriprion: CPU,GPU,显卡,性能评测,跑分榜,天梯图,排行榜,比较,对比
+        - title: AI colors
+          url: https://aicolors.co/
+          description: Get free design resources in your inbox
     
     - term: 网络工具
       links:
