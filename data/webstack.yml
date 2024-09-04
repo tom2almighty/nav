@@ -325,6 +325,12 @@
         - title: AI colors
           url: https://aicolors.co/
           description: Get free design resources in your inbox
+        - title: AdBlock Tester
+          url: https://adblock-tester.com/
+          descriprion: 广告拦截测试。
+        - title: Test AD Block
+          url: https://d3ward.github.io/toolz/adblock.html
+          descriprion: 广告拦截测试。
     
     - term: 网络工具
       links:
