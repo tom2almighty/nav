@@ -162,6 +162,9 @@
         - title: 厂长资源
           url: https://czzy.top/
           description: 厂长资源。
+        - title: 伪人人影视
+          url: https://www.renren.pro/
+          description: 伪人人影视。
     
     - term: BT下载
       links:
@@ -215,6 +218,9 @@
         - title: SubHD
           url: https://subhd.tv/
           description: 字幕下载。
+        - title: 字幕库
+          url: https://srtku.com/
+          description: 字幕下载。
         - title: opensubtitles
           url: https://www.opensubtitles.org/zh
           description: 字幕下载。
@@ -236,6 +242,12 @@
         - title: 霸王龙压制组
           url: https://t-rex.tzfile.com/
           description: 霸王龙压制组。
+        - title: 冰冰字幕组
+          url: https://www.icezmz.com/
+          description: 英剧字幕组。
+        - title: 纪录之家字幕组
+          url: https://weibo.com/jlpzjsub
+          description: 纪录之家字幕组。
 
 
 
@@ -815,4 +827,10 @@
     - title: 数字避难指南
       url: https://dr.cchostvps.xyz/
       description: 数字避难指南。
+    - title: 龙轩导航
+      url: http://ilxdh.com/
+      description: 龙轩导航。
+    - title: 氪主页
+      url: https://www.51kim.com/
+      description: 氪主页。
 ---
