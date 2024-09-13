@@ -386,9 +386,11 @@
           url: https://www.itdog.cn/
           description: 为IT运维人员提供实用的工具，多地ping测试、多地tcping测试、网站测速、HTTP测速、API测速、路由追踪、在线MTR 、DNS查询等。
         - title: fofa
-          logo: images/logos/fofa.ico
           url: https://fofa.info/
           description: 网络空间测绘 & 搜索引擎。
+        - title: 公共DNS大全地址汇总
+          url: https://dns.iui.im/
+          description: 免费提供全国公共DNS服务器地址,全网最全免费最新可用的DNS,去广告DNS,全国各地电信、联通、移动、铁通DNS服务器大全IPV4地址。
     
     - term: CDN加速
       links:   
