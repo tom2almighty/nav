@@ -719,61 +719,87 @@
 
 - taxonomy: 资源下载
   icon: fa-solid fa-download
-  links:
-    - title: Z-library
-      url: https://lib-euuqzyte5h5ef5kvko7lgjpp.1lib.ph/login
-      description: Z-Library 是世界上最大的电子图书馆。在 Z-Library 上，您可以下载电子书、科学文章、杂志、漫画等等。
-    - title: 我爱电子书
-      url: https://www.52doc.com/
-      description: 电子书下载。
-    - title: 鸠摩搜书
-      url: https://www.jiumodiary.com/
-      description: 鸠摩搜书。
-    - title: PDF Drive
-      url: https://www.pdfdrive.com/
-      description: PDF Drive 是您的 PDF 文件搜索引擎。截至今天，我们拥有 78,433,169 本免费下载的电子书。没有烦人的广告，没有下载限制，尽情享受并别忘了收藏和分享！
-    - title: 马可菠萝
-      url: https://macbl.com/
-      description: 分享您喜欢的 Mac 应用。
-    - title: 顶点网
-      url: https://www.topide.com/
-      description: 顶点网。
-    - title: 果核剥壳
-      url: https://www.ghxi.com/
-      description: 果核剥壳。
-    - title: Windows Apps Amaze Us
-      url: https://amazing-apps.gitbook.io/windows-apps-that-amaze-us
-      description: Windows Apps Amaze Us。
-    - title: MSDN 系统库
-      url: https://www.xitongku.com/
-      description: MSDN 系统库。
-    - title: HelloWindows
-      url: https://hellowindows.cn/
-      description: 精校完整极致 Windows 系统下载仓储站。
-    - title: 分享迷
-      url: https://www.fenxm.com/
-      description: 全平台优质应用分享。
-    - title: 无版权音乐
-      url: https://freepd.com/
-      descpiprion: 免费音乐下载。
-    - title: 423Down
-      url: https://www.423down.com/
-      description: 423Down。
-    - title: 歌曲宝
-      url: https://www.gequbao.com/
-      description: 歌曲下载
-    - title: HiFiNi 音乐磁场
-      url: https://www.hifini.com/
-      descpiprion: HiFiNi 音乐磁场。
-    - title: 音乐搜索器
-      url: https://music.haom.ren/
-      description: 多站合一音乐搜索解决方案。
-    - title: 放屁音乐网
-      url: https://www.fangpi.net/
-      descpiprion: 放屁音乐网。
-    - title: 下歌吧
-      url: https://xiageba.com/
-      description: 下歌吧。
+  list:
+    - term: 电子书下载
+      links:
+        - title: Z-library
+          url: https://lib-euuqzyte5h5ef5kvko7lgjpp.1lib.ph/login
+          description: Z-Library 是世界上最大的电子图书馆。在 Z-Library 上，您可以下载电子书、科学文章、杂志、漫画等等。
+        - title: 我爱电子书
+          url: https://www.52doc.com/
+          description: 电子书下载。
+        - title: 鸠摩搜书
+          url: https://www.jiumodiary.com/
+          description: 鸠摩搜书。
+        - title: PDF Drive
+          url: https://www.pdfdrive.com/
+          description: PDF Drive 是您的 PDF 文件搜索引擎。截至今天，我们拥有 78,433,169 本免费下载的电子书。没有烦人的广告，没有下载限制，尽情享受并别忘了收藏和分享！
+
+    - term: 软件下载
+      links:
+        - title: 马可菠萝
+          url: https://macbl.com/
+          description: 分享您喜欢的 Mac 应用。
+        - title: 顶点网
+          url: https://www.topide.com/
+          description: 顶点网。
+        - title: 果核剥壳
+          url: https://www.ghxi.com/
+          description: 果核剥壳。
+        - title: Windows Apps Amaze Us
+          url: https://amazing-apps.gitbook.io/windows-apps-that-amaze-us
+          description: Windows Apps Amaze Us。
+        - title: 分享迷
+          url: https://www.fenxm.com/
+          description: 全平台优质应用分享。
+        - title: OS·SSR
+          url: https://www.osssr.com/
+          description: 软件资源下载站，提供最新、最全的正版软件、便携软件、绿色软件和破解软件。
+        - title: MEFCL
+          url: https://www.mefcl.com/
+          description: 免费分享最新纯净版、绿色版、开源软件，包含电脑软件、安卓应用。
+        - title: 423Down
+          url: https://www.423down.com/
+          description: 更新快、专注去广告类软件输出10年、个人IP品牌软件分享站。
+
+    - term: 系统下载
+      links:
+        - title: MSDN 系统库
+          url: https://www.xitongku.com/
+          description: MSDN 系统库。
+        - title: HelloWindows
+          url: https://hellowindows.cn/
+          description: 精校完整极致 Windows 系统下载仓储站。
+        - title: 不忘初心精简系统
+          url: https://www.pc528.net/
+          description: 不忘初心可更新补丁的精简版 windows10系统 进程少 速度快 纯净 无任何第三方软件。
+        - title: 专注于Win10
+          url: https://iwin10.net/
+          description: Windows 10 系统下载。
+        - title: 小修系统
+          url: https://www.xiuxitong.com/
+          description: window精简系统,极限精简,适度精简,轻量优化,极限优化,速度稳定为先,快速安装，用户自定义安装,精简包、系统清理软件分享。
+
+    - term: 音乐下载
+      links:
+        - title: 无版权音乐
+          url: https://freepd.com/
+          description: 免费音乐下载。
+        - title: 歌曲宝
+          url: https://www.gequbao.com/
+          description: 歌曲下载。
+        - title: HiFiNi 音乐磁场
+          url: https://www.hifini.com/
+          description: HiFiNi 音乐磁场。
+        - title: 音乐搜索器
+          url: https://music.haom.ren/
+          description: 多站合一音乐搜索解决方案。
+        - title: 放屁音乐网
+          url: https://www.fangpi.net/
+          description: 放屁音乐网。
+        - title: 下歌吧
+          url: https://xiageba.com/
+          description: 下歌吧。
 - taxonomy: 购物小店
   icon: fa-solid fa-shopping-cart
   links:
