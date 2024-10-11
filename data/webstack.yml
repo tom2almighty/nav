@@ -497,6 +497,14 @@
         - title: AI colors
           url: https://aicolors.co/
           description: Get free design resources in your inbox
+    - term: 图片设计
+      links:
+        - title: canva
+          url: https://www.canva.cn/
+          description: Canva 是一个图形设计平台，用于创建社交媒体图像、宣传海报、名片、海报、简历、幻灯片等。
+        - title: VividShare
+          url: https://vividshare.io/
+          description: VividShare 可以帮助您从推文、推荐信、文本、截图、代码等创建令人惊叹的营销资产，用于社交媒体分享。
     - term: 图标素材
       links:
         - title: iconfont
