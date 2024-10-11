@@ -489,10 +489,10 @@
         - title: VividShare
           url: https://vividshare.io/
           description: VividShare 可以帮助您从推文、推荐信、文本、截图、代码等创建令人惊叹的营销资产，用于社交媒体分享。
-        - title: Shots - Create Amazing Mockups
-          logo: https://shots.so/image/favicon.png
-          url: https://shots.so/
-          description: Create Amazing Mockups
+        - title: Ray.so
+          logo: https://ray.so/favicon.ico
+          url: https://ray.so/
+          description: Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
     - term: 图标素材
       links:
         - title: iconfont
