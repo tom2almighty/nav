@@ -1,0 +1,853 @@
+---
+- taxonomy: 个人常用
+  icon: fa-solid fa-star
+  links:
+    - title: 个人主页
+      url: https://www.grew.cc/
+      description: 个人主页。
+    - title: 博客
+      url: https://blog.grew.cc/
+      description: 个人博客。
+    - title: Alist网盘
+      url: https://pan.grew.cc/
+      description: 个人网盘。
+    - title: NextChat
+      url: https://chat.grew.cc/
+      description: NextChat 是一个跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。
+    - title: 订阅转换
+      url: https://sub.grew.cc/
+      description: 订阅转换。
+    - title: sublink worker
+      url: https://sublink.grew.cc/
+      description: 订阅转换。
+    - title: Stirling PDF
+      url: https://pdf.grew.cc/
+      description: PDF全能工具。
+    - title: RSSHub
+      url: https://rsshub.grew.cc/
+      description: RSSHub。
+    - title: Bing 每日壁纸 API
+      url: https://bing.grew.cc/
+      description: Bing 每日壁纸 API。
+    - title: Cover View
+      url: https://cover.grew.cc
+      description: 为博客创建封面图片。
+    - title: TG 图床
+      url: https://img.grew.cc
+      description: TG 图床。
+    - title: IP查询
+      url: https://ip.grew.cc/
+      description: IP查询。
+    - title: Linux命令搜索
+      url: https://linux.grew.cc
+      description: Linux命令搜索。
+    - title: markdown转html
+      url: https://md2.grew.cc/
+      description: markdown转html。
+    - title: 哪吒监控
+      url: https://jk.grew.cc/
+      description: 哪吒监控。
+    - title: Status
+      url: https://status.grew.cc/
+      description: 网站状态监控。
+    - title: GitHub
+      url: https://github.com/
+      description: GitHub。
+    - title: Azure额度查询
+      url: https://www.microsoftazuresponsorships.com/
+      description: Azure额度查询。
+    - title: E5剩余时间查询
+      url: https://developer.microsoft.com/zh-cn/office/profile
+      description: E5剩余时间查询。
+- taxonomy: 影视资源
+  icon: fa-solid fa-film
+  list:
+    - term: 官方资源
+      links:
+        - title: Netflix
+          url: https://www.netflix.com/
+          description: 最大的流媒体平台
+        - title: Disney+
+          url: https://www.disneyplus.com/
+          description: 迪士尼官方流媒体平台。
+        - title: HBO Max
+          url: https://www.hbomax.com/
+          description: HBO Max 官方流媒体平台。
+        - title: Aamzon Prime Video
+          url: https://www.primevideo.com/
+          description: 亚马逊 Prime Video 官方流媒体平台。
+        - title: 爱奇艺
+          url: https://www.iqiyi.com/
+          description: 爱奇艺官方流媒体平台。
+        - title: 腾讯视频
+          url: https://v.qq.com/
+          description: 腾讯视频官方流媒体平台。
+        - title: 优酷
+          url: https://www.youku.com/
+          description: 优酷官方流媒体平台。
+        - title: YouTube
+          url: https://www.youtube.com/
+          description: YouTube 视频网站。
+        - title: Bilibili
+          url: https://www.bilibili.com/
+          description: bilibili 哔哩哔哩。
+    - term: 影视搜索
+      links:
+        - title: 影猫仓库
+          url: https://ymck.pro/
+          description: 电影网站目录。
+        - title: 玩偶哥哥
+          url: https://www.wogg.xyz/
+          description: 阿里云盘影视资源站。网站只收录1080P以上画质影视，影视资源较新，无需注册登录，点击跳转阿里云盘链接，可直接转存下载。
+        - title: 盘有圈
+          url: https://panyq.com/
+          description: 网盘聚合搜索。
+        - title: 云盘盘
+          url: https://www.yppan.com/
+          description: 阿里云盘资源分享。
+        - title: YaPan
+          url: https://yapan.io/
+          description: 阿里云盘资源分享。
+        - title: 阿里云盘影视论坛
+          logo: images/logos/aliyunpan.ico
+          url: https://drivebbs.com/forum.php
+          description: 阿里云盘资源分享。
+        - title: 阿里云盘分享文档
+          logo: images/logos/aliyunpan.ico
+          url: https://docs.qq.com/sheet/DVHpJVmRhT3ViV09Q?tab=BB08J2
+          description: 阿里云盘资源分享。
+        - title: 爱达杂货铺
+          logo: images/logos/adzhp.ico
+          url: https://adzhp.xyz/mian-fei-shi-pin.html
+          description: 免费在线视频网站资源索引。
+        - title: 饭太硬
+          logo: images/logos/fty.ico
+          url: https://www.xn--sss604efuw.top/
+          description: TV-Box导航。
+        - title: Netflix全球搜索
+          url: https://unogs.com/
+          description: Netflix全球搜索。
+    - term: 在线视频
+      links:
+        - title: 独播库
+          logo: images/logos/duboku.ico
+          url: https://www.duboku.tv/
+          description: 独播库。
+        - title: 低端影视
+          logo: images/logos/ddys.ico
+          url: https://ddys.info/
+          description: 优质影视资源在线观看。
+        - title: LIBVIO
+          logo: images/logos/libvio.ico
+          url: https://libfabu.com
+          description: 海外影视资源为主的老牌在线视频网站。
+        - title: 大师兄影视
+          logo: images/logos/dsxys.ico
+          url: https://dsxys.pro/
+          description: 大师兄影视。
+        - title: 缘觉影视
+          logo: images/logos/bdys.ico
+          url: https://www.yjys02.com/
+          description: 原哔嘀影视，在线观看加BT下载。
+        - title: 硬核指南
+          logo: images/logos/yinghe.ico
+          url: https://yinghe.app/
+          description: 影视站导航。
+        - title: HDmoli
+          url: https://www.hdmoli.pro/
+          description: 高品质在线影视资源。
+        - title: 厂长资源
+          url: https://czzy.top/
+          description: 厂长资源。
+        - title: 伪人人影视
+          url: https://www.renren.pro/
+          description: 伪人人影视。
+    - term: BT下载
+      links:
+        - title: YIFY
+          logo: images/logos/yts.ico
+          url: https://yts.mx/
+          description: 最小文件大小的高清电影（仅电影）。
+        - title: EZTVx
+          url: https://eztvx.to/
+          description: EZTVx 是一个专门为电视节目爱好者提供的电视节目下载网站。
+        - title: TorrentGalaxy
+          url: https://torrentgalaxy.to/
+          description: TorrentGalaxy 是一个专门为电影爱好者提供的电影下载网站。
+        - title: RARBG
+          url: https://rargb.to/
+          description: RARBG 是一个专门为电影爱好者提供的电影下载网站。
+        - title: 1337x
+          url: https://1337x.to/
+          description: 1337x 是一个专门为电影爱好者提供的电影下载网站。
+        - title: BT之家
+          logo: images/logos/1lou.ico
+          url: https://www.1lou.me/
+          description: 综合下载。
+        - title: MINI4K
+          logo: images/logos/mini4k.ico
+          url: https://www.mini4k.com/
+          description: 页面简洁，资源丰富。
+        - title: 中国高清网
+          logo: images/logos/gaoqing.ico
+          url: https://gaoqing.la/
+          description: 高清电影下载。
+        - title: 音范丝
+          url: https://yinfans.me
+          description: 音乐、电影、电视剧、动漫、综艺等资源下载。
+        - title: 美剧粉
+          url: https://www.mjf2020.com/
+          description: 美剧下载。
+        - title: 无名小站
+          url: https://www.btnull.fun/
+          description: 原片库网。
+        - title: 磁力熊
+          url: https://www.cilixiong.com/
+          description: 磁力熊。
+        - title: 不太灵影视
+          url: https://www.2bt0.com/
+          descpiprion: 不太灵影视。
+    - term: 字幕下载
+      links:
+        - title: SubHD
+          url: https://subhd.tv/
+          description: 字幕下载。
+        - title: 字幕库
+          url: https://srtku.com/
+          description: 字幕下载。
+        - title: opensubtitles
+          url: https://www.opensubtitles.org/zh
+          description: 字幕下载。
+        - title: 人人影视字幕组
+          url: https://www.yysub.net/
+          description: 人人影视字幕组。
+        - title: 射手网（伪）
+          url: https://assrt.net/
+          description: 字幕下载。
+        - title: 字幕库
+          url: https://srtku.com/
+          description: 字幕下载。
+        - title: FIX字幕侠
+          url: https://www.zimuxia.cn/
+          description: FIX字幕组作品
+        - title: 诸神字幕组
+          url: https://subs.kamigami.org/
+          description: 诸神字幕组，做最好的中日双语字幕。
+        - title: 霸王龙压制组
+          url: https://t-rex.tzfile.com/
+          description: 霸王龙压制组。
+        - title: 冰冰字幕组
+          url: https://www.icezmz.com/
+          description: 英剧字幕组。
+        - title: 纪录之家字幕组
+          url: https://weibo.com/jlpzjsub
+          description: 纪录之家字幕组。
+- taxonomy: 工具集合
+  icon: fa-solid fa-wrench
+  list:
+    - term: 在线图床
+      links:
+        - title: IMGDD
+          url: https://imgdd.com/
+          description: 免费、快速在全球范围内传送图像。
+        - title: Dooong公益图床
+          url: https://image.dooo.ng/
+          description: 你用过最快的公益图床。
+        - title: 聚合图床
+          url: https://www.superbed.cn/
+          description: 国内访问迅速。
+        - title: PicX
+          url: https://picx.xpoet.cn/#/
+          description: 基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+    - term: 工具箱集合
+      links:
+        - title: 果汁工具箱
+          url: http://guozhivip.com/tool/
+          description: 果汁工具箱。
+        - title: 爱资料工具箱
+          url: https://www.toolnb.com/
+          description: 爱资料工具箱。
+        - title: 独特工具箱
+          url: https://www.dute.org/
+          description: 独特工具箱。
+        - title: IT在线工具箱
+          url: https://tool.hitboxes.top/
+          description: IT在线工具箱
+        - title: 开发者武器库
+          url: https://devtool.tech/
+          description: 开发者武器库。
+    - term: 在线工具
+      links:
+        - title: 临时邮箱
+          url: https://temp-mail.org/zh/
+          description: 临时邮箱。
+        - title: 虚拟地址
+          url: https://www.fakeaddressgenerator.com/
+          description: 虚拟地址生成器。
+        - title: 在线接码
+          url: https://sms-activate.org/cn
+          description: 在线接码。
+        - title: 在线打字
+          url: https://barneyzhao.gitee.io/typing-cn/
+          description: 在线打字练习。
+        - title: Finalshell授权码
+          url: https://cdn.404888.xyz/findshell.php
+          description: Finalshell授权码生成。
+        - title: 博客头图
+          url: https://coverview.vercel.app/editor
+          description: 博客头图制作。
+        - title: 文章banner制作
+          url: https://ijust.cc/tools/canvas
+          description: 通过样式快速调整博客 Banner
+        - title: 代码高亮图片
+          url: https://carbon.now.sh/
+          description: 代码高亮图片。
+        - title: 截图美化工具
+          url: https://pretty-snap.iwhy.dev/
+          description: 为普通的截图添加渐变色背景、模糊阴影、圆角以及水印，简单易用。
+        - title: docsmall
+          url: https://docsmall.com/
+          description: 在线文档处理工具。
+        - title: html转markdown
+          url: https://www.helloworld.net/html2md
+          description: helloworld 开发者社区开源的一个轻量级，强大的 html 一键转 md 工具，支持多平台文章一键转换，并保存下载到本地。
+        - title: 码途编辑器
+          url: https://markdown.devtool.tech/app
+          description: 码途编辑器。markdown转html，html解析。
+        - title: pdf24tools
+          url: https://tools.pdf24.org/zh/
+          description: 免费且易于使用的在线 PDF 工具。
+        - title: transfonter
+          url: https://transfonter.org/
+          description: 简约现代化 css @font-face 生成器
+        - title: 模块集合
+          url: https://whatshub.top/
+          description: 模块集合。
+        - title: 老姨子
+          url: https://github.com/LaoYiZi-Media/unblock/wiki/%E8%80%81%E5%A7%A8%E5%AD%90%E8%A7%A3%E9%94%81
+          description: LYZ解锁
+        - title: Windows及office激活
+          url: https://massgrave.dev/index.html
+          description: Windows及office激活。
+        - title: GenP官方版
+          url: https://www.reddit.com/r/GenP/
+          description: Adobe系列软件激活。
+        - title: GenP非官方优化版
+          url: https://www.cybermania.ws/
+          description: Adobe系列软件激活。
+        - title: 全球 Netflix 价格查询
+          url: https://nf.dy.ax/
+          description: 全球 Netflix 价格查询。
+        - title: Technical City
+          url: https://technical.city/zh
+          description: 显卡和处理器对比及排行榜。
+        - title: TOPCPU
+          url: https://www.topcpu.net/
+          descriprion: CPU,GPU,显卡,性能评测,跑分榜,天梯图,排行榜,比较,对比
+        - title: AdBlock Tester
+          url: https://adblock-tester.com/
+          descriprion: 广告拦截测试。
+        - title: Test AD Block
+          url: https://d3ward.github.io/toolz/adblock.html
+          descriprion: 广告拦截测试。
+    - term: 网络工具
+      links:
+        - title: IP可用性检测
+          url: https://www.toolsdaquan.com/ipcheck/
+          description: IP可用性检测
+        - title: IP.SB
+          url: https://ip.sb/
+          description: IP查询
+        - title: PING0
+          url: https://ping0.cc/
+          description: IP查询
+        - title: 站长之家
+          url: https://tool.chinaz.com/
+          description: 站长工具。
+        - title: VPS监控
+          url: https://stock.hostmonit.com/
+          description: 全球主机补货通知
+        - title: 全球VPS数据库
+          url: https://www.vpsdb.top/
+          description: 一站式搜索高性价比VPS方案
+        - title: itdog
+          url: https://www.itdog.cn/
+          description: 为IT运维人员提供实用的工具，多地ping测试、多地tcping测试、网站测速、HTTP测速、API测速、路由追踪、在线MTR 、DNS查询等。
+        - title: fofa
+          url: https://fofa.info/
+          description: 网络空间测绘 & 搜索引擎。
+        - title: 公共DNS大全地址汇总
+          url: https://dns.iui.im/
+          description: 免费提供全国公共DNS服务器地址,全网最全免费最新可用的DNS,去广告DNS,全国各地电信、联通、移动、铁通DNS服务器大全IPV4地址。
+    - term: CDN加速
+      links:
+        - title: 七牛云CDN
+          url: https://staticfile.net/
+          description: 免费、快速、开放的 CDN 服务。
+        - title: 字节跳动静态资源公共库
+          url: https://cdn.bytedance.com/
+          description: 字节跳动静态资源公共库。
+        - title: 360 前端静态资源库
+          url: https://cdn.baomitu.com/index/fonts
+          description: 360 前端静态资源库。
+        - title: Web缓存网
+          url: https://www.webcache.cn/
+          description: 一个免费、快速、可靠的网站静态加速服务。
+        - title: 渺软公益 CDN
+          url: https://cdn.onmicrosoft.cn/
+          description: 由私人搭建的备案域名来使用 Dogecloud CDN，为开发者提供一个高速简单，开箱即用的公益CDN。
+        - title: 南方科技大学
+          url: https://mirrors.sustech.edu.cn/help/cdnjs.html
+          description: 南方科技大学 CDN。
+        - title: 重庆科技大学
+          url: https://mirrors.cqupt.edu.cn/
+          description: 重庆邮电大学开源镜像站。
+        - title: 烧饼博客CDN
+          url: https://u.sb/css-cdn/
+          description: 前端 CDNJS 库及 Google Fonts、Ajax 和 Gravatar 国内加速服务。
+        - title: jsdelivr镜像站
+          url: https://jsd.cdn.zzko.cn/
+          description: jsdelivr镜像站，提供了丰富的开源库，可以加速你的网站。
+        - title: BootCDN
+          url: https://www.bootcdn.cn/
+          description: BootCDN 是 Bootstrap 中文网和又拍云联合支持并维护的前端开源项目免费 CDN 服务。
+- taxonomy: 素材资源
+  icon: fa-thumbs-up
+  list:
+    - term: 在线配色
+      links:
+        - title: khroma
+          url: http://khroma.co/generator/
+          logo: images/logos/khroma.png
+          description: Khroma 是一个帮助你发现、搜索和保存颜色组合的最快速的方式。
+        - title: uigradients
+          url: https://uigradients.com
+          logo: images/logos/uigradients.png
+          description: 美丽的渐变色组合。
+        - title: Coolest
+          url: https://webkul.github.io/coolhue/
+          logo: images/logos/Coolest.png
+          description: Coolest 精选的渐变色组合，适用于超级惊人的作品。
+        - title: webgradients
+          url: https://webgradients.com/
+          logo: images/logos/webgradients.png
+          description: WebGradients 是一个免费的收藏了180个线性渐变色的集合，您可以将其用作网站的背景。
+        - title: grabient
+          url: https://www.grabient.com/
+          logo: images/logos/grabient.png
+          description: 2017 年由 unfold 创建的 Grabient。
+        - title: thedayscolor
+          url: http://www.thedayscolor.com/
+          logo: images/logos/thedayscolor.png
+          description: 每日颜色精选。
+        - title: flatuicolors
+          url: http://flatuicolors.com/
+          logo: images/logos/flatuicolors.png
+          description: 从 Flat UI 主题中复制粘贴颜色调色板。
+        - title: coolors
+          url: https://coolors.co/
+          logo: images/logos/coolors.png
+          description: 超快速的颜色方案生成器！
+        - title: colorhunt
+          url: http://www.colorhunt.co/
+          logo: images/logos/colorhunt.png
+          description: 美丽的配色方案。
+        - title: Adobe Color CC
+          url: https://color.adobe.com/zh/create/color-wheel
+          logo: images/logos/AdobeColorCC.png
+          description: 使用色轮创建配色方案，或浏览来自 Color 社区的数千种配色组合。
+        - title: flatuicolorpicker
+          url: http://www.flatuicolorpicker.com/
+          logo: images/logos/flatuicolorpicker.png
+          description: 用于 UI 设计的最佳平面颜色。
+        - title: trianglify
+          url: http://qrohlf.com/trianglify-generator/
+          logo: images/logos/trianglify.png
+          description: Trianglify 生成器。
+        - title: klart
+          url: https://klart.co/colors/
+          logo: images/logos/klart.png
+          description: 每周向您的收件箱发送美丽的颜色和设计。
+        - title: vanschneider
+          url: http://www.vanschneider.com/colors
+          logo: images/logos/vanschneider.png
+          description: Color Claim 是 Tobias van Schneider 于 2012 年创建的，旨在收集和组合独特的颜色，以供将来使用的项目。
+        - title: 纯色
+          url: https://color.qninq.cn/
+          description: 纯色。
+        - title: 配色表
+          url: https://www.peisebiao.com/
+          descpiprion: 简单好用的配色工具
+        - title: AI colors
+          url: https://aicolors.co/
+          description: Get free design resources in your inbox
+    - term: 图片设计
+      links:
+        - title: canva
+          url: https://www.canva.cn/
+          description: Canva 是一个图形设计平台，用于创建社交媒体图像、宣传海报、名片、海报、简历、幻灯片等。
+        - title: VividShare
+          url: https://vividshare.io/
+          description: VividShare 可以帮助您从推文、推荐信、文本、截图、代码等创建令人惊叹的营销资产，用于社交媒体分享。
+        - title: Shots - Create Amazing Mockups
+          logo: https://shots.so/image/favicon.png
+          url: https://shots.so/
+          description: Create Amazing Mockups
+    - term: 图标素材
+      links:
+        - title: iconfont
+          logo: images/logos/iconfont.png
+          url: http://www.iconfont.cn/
+          description: 阿里巴巴矢量图标库。
+        - title: iconmonstr
+          logo: images/logos/iconmonstr.png
+          url: https://iconmonstr.com/
+          description: 免费简洁的图标。
+        - title: Icon Archive
+          logo: images/logos/iconarchive.png
+          url: http://www.iconarchive.com/
+          description: 搜索590,912个免费图标。
+        - title: flaticon
+          logo: images/logos/flaticon.png
+          url: https://www.flaticon.com/
+          description: 634,000+ 免费矢量图标，支持SVG、PSD、PNG、EPS格式。
+        - title: Material icons
+          logo: images/logos/Materialicons.png
+          url: https://material.io/icons/
+          description: 提供超过 900 个 Material 系统图标，可用于各种尺寸和密度，并提供 Web 字体。
+        - title: Font Awesome Icon
+          logo: images/logos/fontawesomeicon.png
+          url: https://fontawesome.com/icons/
+          description: 完整的 Font Awesome 图标集，包含 675 个图标。
+        - title: ion icons
+          logo: images/logos/ionicons.png
+          url: http://ionicons.com/
+          description: 为 Ionic Framework 设计的高级图标字体。
+        - title: tablericons
+          url: https://tablericons.com/
+          description: 800+ 可高度定制的免费 SVG 图标。
+    - term: 摄影图库
+      links:
+        - title: Unsplash
+          url: https://unsplash.com/
+          logo: images/logos/unsplash.png
+          description: 美丽的免费照片。
+        - title: Pexels
+          url: https://www.pexels.com/
+          description: 最佳免费高清照片一站式服务。
+        - title: wallspic
+          url: https://wallspic.com/
+          description: 为您的设备提供高清壁纸。
+        - title: Wallhaven
+          url: https://wallhaven.cc/
+          description: Wallhaven 是一个由壁纸爱好者创建的网站，也是一个动漫爱好者可以像正常人一样受到尊重的地方。
+        - title: wallpaperhub
+          url: https://www.wallpaperhub.app/
+          description: WallpaperHub - 为您的桌面、平板电脑和手机提供美丽的壁纸。
+        - title: dribbble
+          url: https://dribbble.com/
+          description: Dribbble 是设计师获取灵感、反馈、社区和工作的最佳资源，也是发现和连接全球设计师的最佳资源。
+        - title: visualhunt
+          url: https://visualhunt.com/
+          logo: images/logos/visualhunt.png
+          description: 100% 免费高质量照片。
+        - title: librestock
+          url: https://librestock.com/
+          logo: images/logos/librestock.png
+          description: 65,084 张高质量、无版权限制的照片。
+        - title: pixabay
+          url: https://pixabay.com/
+          logo: images/logos/pixabay.png
+          description: 可在任何地方使用的免费图片和视频。
+        - title: SplitShire
+          url: https://www.splitshire.com/
+          logo: images/logos/SplitShire.png
+          description: 商用免费库存照片和视频。
+        - title: StockSnap
+          url: https://stocksnap.io/
+          logo: images/logos/StockSnap.png
+          description: 美丽的免费库存照片。
+        - title: albumarium
+          url: http://albumarium.com/
+          logo: images/logos/albumarium.png
+          description: 发现和分享美丽图片的最佳地方。
+        - title: myphotopack
+          url: https://myphotopack.com/
+          logo: images/logos/myphotopack.png
+          description: 每月为您提供免费照片包。
+        - title: Notaselfie
+          url: http://notaselfie.com/
+          logo: images/logos/notaselfie.png
+          description: 顺便拍的照片。您可以随意使用这些图片。玩得开心！
+        - title: papers
+          url: http://papers.co/
+          logo: images/logos/papers.png
+          description: 每小时更新的壁纸！手动收集 :)
+        - title: stokpic
+          url: http://stokpic.com/
+          logo: images/logos/stokpic.png
+          description: 商用免费库存照片。
+        - title: 55mm
+          url: https://55mm.co/visuals
+          logo: images/logos/55mm.png
+          description: 使用我们的免费照片来讲述您的故事！
+        - title: thestocks
+          url: http://thestocks.im/
+          logo: images/logos/thestocks.png
+          description: 使用我们的免费照片来讲述您的故事！
+        - title: freenaturestock
+          url: http://freenaturestock.com/
+          logo: images/logos/freenaturestock.png
+          description: 设计师和开发者的独家惊人免费资源
+        - title: negativespace
+          url: https://negativespace.co/
+          logo: images/logos/negativespace.png
+          description: 美丽、高分辨率的免费库存照片。
+        - title: gratisography
+          url: https://gratisography.com/
+          logo: images/logos/gratisography.png
+          description: 免费高分辨率图片，可用于个人和商业项目，无版权限制。
+        - title: imcreator
+          url: http://imcreator.com/free
+          logo: images/logos/imcreator.png
+          description: 精选的免费网页设计资源，全部可商用。
+        - title: lifeofpix
+          url: http://www.lifeofpix.com/
+          logo: images/logos/lifeofpix.png
+          description: 免费高分辨率摄影作品。
+        - title: skitterphoto
+          url: https://skitterphoto.com/
+          logo: images/logos/skitterphoto.png
+          description: 创意专业人士的免费库存照片。
+        - title: mmtstock
+          url: https://mmtstock.com/
+          logo: images/logos/mmtstock.png
+          description: 商业使用的免费照片。
+        - title: skitterphoto
+          url: https://skitterphoto.com/
+          logo: images/logos/skitterphoto.png
+          description: 一个可以找到、展示和分享公共领域照片的地方。
+        - title: magdeleine
+          url: https://magdeleine.co/browse/
+          logo: images/logos/magdeleine.png
+          description: 为您的灵感精选的免费照片。
+        - title: jeshoots
+          url: http://jeshoots.com/
+          logo: images/logos/jeshoots.png
+          description: 每周向您的收件箱发送新的免费照片和模型！
+        - title: hdwallpapers
+          url: https://www.hdwallpapers.net
+          logo: images/logos/hdwallpapers.png
+          description: 高清壁纸和桌面背景。
+        - title: publicdomainarchive
+          url: http://publicdomainarchive.com/
+          logo: images/logos/publicdomainarchive.png
+          description: 每周发布新的 100% 免费库存照片。
+        - title: WALLPAPER ABYSS
+          url: https://wall.alphacoders.com/
+          description: Alpha Coders 提供了数百万张免费壁纸，以及数百万张高清壁纸和背景图片。
+- taxonomy: 教育学习
+  icon: fa-regular fa-folder-open
+  list:
+    - term: 学习提升
+      links:
+        - title: Google学术镜像站
+          url: https://ac.scmor.com/
+          description: Google学术镜像站导航。
+        - title: 中国数字科学馆
+          url: https://www.cdstm.cn/
+          description: 中国数字科学馆。
+        - title: 大学资源网
+          url: https://www.dxzy163.com/
+          description: 大学资源网。
+        - title: 中国大学MOOC
+          url: https://www.icourse163.org/
+          description: 中国大学MOOC。
+        - title: 技术书籍
+          url: https://awesome-programming-books.github.io/
+          description: 经典技术书籍下载。
+        - title: 中国政策数据库
+          url: https://ocmacro.com/database
+          description: 中国政策数据库。
+        - title: Python 数据分析
+          url: https://seancheney.gitbook.io/python-for-data-analysis-2nd
+          description: Python 数据分析。
+        - title: 数据科学中的R
+          url: https://bookdown.org/wangminjie/R4DS/
+          description: 数据科学中的R。
+    - term: 在线数据
+      links:
+        - title: 中国统计年鉴
+          url: https://www.stats.gov.cn/sj/ndsj/
+          description: 中国统计年鉴。
+        - title: 中国法院网
+          url: https://www.chinacourt.org/law.shtml
+          description: 中国法律。
+        - title: 中国经济数据库
+          url: https://www.ceicdata.com/zh-hans
+          description: 中国经济数据库。
+        - title: 大英百科全书
+          url: https://www.britannica.com/
+          description: 大英百科全书。
+        - title: 美国人口数据
+          url: https://data.census.gov/
+          description: 美国人口数据。
+        - title: 美国经济分析局
+          url: https://www.bea.gov/
+          description: 美国经济分析局。
+        - title: 美联储经济数据
+          url: https://fred.stlouisfed.org/
+          description: 美联储经济数据。
+        - title: 联合国水资源统计门户
+          url: https://www.unwater.org/water-facts/statistics/
+          description: 联合国水资源统计门户。
+        - title: 联合国数据中心
+          url: https://data.un.org/
+          description: 联合国数据中心。
+        - title: 开放数据
+          url: https://opendatainception.io/
+          description: 世界各地的开放数据。
+        - title: 欧盟数据
+          url: https://data.europa.eu/euodp/en/home
+          description: 欧盟数据。
+- taxonomy: 资源下载
+  icon: fa-solid fa-download
+  list:
+    - term: 电子书下载
+      links:
+        - title: Z-library
+          url: https://lib-euuqzyte5h5ef5kvko7lgjpp.1lib.ph/login
+          description: Z-Library 是世界上最大的电子图书馆。在 Z-Library 上，您可以下载电子书、科学文章、杂志、漫画等等。
+        - title: 我爱电子书
+          url: https://www.52doc.com/
+          description: 电子书下载。
+        - title: 鸠摩搜书
+          url: https://www.jiumodiary.com/
+          description: 鸠摩搜书。
+        - title: PDF Drive
+          url: https://www.pdfdrive.com/
+          description: PDF Drive 是您的 PDF 文件搜索引擎。截至今天，我们拥有 78,433,169 本免费下载的电子书。没有烦人的广告，没有下载限制，尽情享受并别忘了收藏和分享！
+    - term: 软件下载
+      links:
+        - title: 马可菠萝
+          url: https://macbl.com/
+          description: 分享您喜欢的 Mac 应用。
+        - title: 顶点网
+          url: https://www.topide.com/
+          description: 顶点网。
+        - title: 果核剥壳
+          url: https://www.ghxi.com/
+          description: 果核剥壳。
+        - title: Windows Apps Amaze Us
+          url: https://amazing-apps.gitbook.io/windows-apps-that-amaze-us
+          description: Windows Apps Amaze Us。
+        - title: 分享迷
+          url: https://www.fenxm.com/
+          description: 全平台优质应用分享。
+        - title: OS·SSR
+          url: https://www.osssr.com/
+          description: 软件资源下载站，提供最新、最全的正版软件、便携软件、绿色软件和破解软件。
+        - title: MEFCL
+          url: https://www.mefcl.com/
+          description: 免费分享最新纯净版、绿色版、开源软件，包含电脑软件、安卓应用。
+        - title: 423Down
+          url: https://www.423down.com/
+          description: 更新快、专注去广告类软件输出10年、个人IP品牌软件分享站。
+    - term: 系统下载
+      links:
+        - title: MSDN 系统库
+          url: https://www.xitongku.com/
+          description: MSDN 系统库。
+        - title: HelloWindows
+          url: https://hellowindows.cn/
+          description: 精校完整极致 Windows 系统下载仓储站。
+        - title: 不忘初心精简系统
+          url: https://www.pc528.net/
+          description: 不忘初心可更新补丁的精简版 windows10系统 进程少 速度快 纯净 无任何第三方软件。
+        - title: 专注于Win10
+          url: https://iwin10.net/
+          description: Windows 10 系统下载。
+        - title: 小修系统
+          url: https://www.xiuxitong.com/
+          description: window精简系统,极限精简,适度精简,轻量优化,极限优化,速度稳定为先,快速安装，用户自定义安装,精简包、系统清理软件分享。
+    - term: 音乐下载
+      links:
+        - title: 无版权音乐
+          url: https://freepd.com/
+          description: 免费音乐下载。
+        - title: 歌曲宝
+          url: https://www.gequbao.com/
+          description: 歌曲下载。
+        - title: HiFiNi 音乐磁场
+          url: https://www.hifini.com/
+          description: HiFiNi 音乐磁场。
+        - title: 音乐搜索器
+          url: https://music.haom.ren/
+          description: 多站合一音乐搜索解决方案。
+        - title: 放屁音乐网
+          url: https://www.fangpi.net/
+          description: 放屁音乐网。
+        - title: 下歌吧
+          url: https://xiageba.com/
+          description: 下歌吧。
+- taxonomy: 购物小店
+  icon: fa-solid fa-shopping-cart
+  links:
+    - title: Spotify会员购买
+      url: https://shengpotian.net/
+      description: Spotify会员购买
+    - title: EDU 邮箱购买
+      url: https://www.liout.com/
+      description: EDU 邮箱购买。
+    - title: 流媒体购买
+      url: https://www.freetrial.store/
+      description: 流媒体购买。
+    - title: 礼品卡购买
+      url: https://www.turgame.com/
+      description: 礼品卡购买。
+    - title: 流媒体解锁
+      url: https://nfdns.top/
+      description: 流媒体解锁
+- taxonomy: 友情链接
+  icon: fa-link
+  friend:
+    - title: 子页面一
+      url: sub1
+      description: 本站子页面1。
+    - title: 子页面二
+      url: sub2
+      description: 本站子页面2。
+    - title: webstack.cc
+      url: https://webstack.cc
+      description: webstack - 设计师网址导航。
+    - title: 一为导航
+      url: https://nav.iowen.cn/
+      description: onenav 主题演示站。
+    - title: 趣导航
+      url: https://qssily.com/
+    - title: 404导航
+      url: https://www.404dh.icu/
+      description: 只导航优质资源。
+    - title: OPENI
+      url: https://openi.cn/
+    - title: 飞猪ai导航
+      url: https://feizhuke.com/
+      description: AI 工具集箱。
+    - title: bioit导航
+      url: https://www.bioit.top/
+    - title: 所长导航
+      url: https://liutongxu.github.io/
+    - title: 一为webstack
+      url: https://webstack.iotheme.cn/
+    - title: iplaycode
+      url: https://iplaycode.github.io/nav/
+      description: iplaycode 的 demo 导航网站。
+    - title: 数字避难指南
+      url: https://dr.cchostvps.xyz/
+      description: 数字避难指南。
+    - title: 龙轩导航
+      url: http://ilxdh.com/
+      description: 龙轩导航。
+    - title: 氪主页
+      url: https://www.51kim.com/
+      description: 氪主页。
