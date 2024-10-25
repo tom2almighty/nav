@@ -172,6 +172,9 @@
           logo: images/logos/yts.ico
           url: https://yts.mx/
           description: 最小文件大小的高清电影（仅电影）。
+        - title: 'YTS MX: The Official Home of YIFY Movies | YTS.MX | 2023'
+          url: https://en.rarbg-official.com/
+          description: 下载 YTS YIFY 电影：高清最小尺寸。
         - title: EZTVx
           url: https://eztvx.to/
           description: EZTVx 是一个专门为电视节目爱好者提供的电视节目下载网站。
@@ -505,6 +508,10 @@
         - title: VividShare
           url: https://vividshare.io/
           description: VividShare 可以帮助您从推文、推荐信、文本、截图、代码等创建令人惊叹的营销资产，用于社交媒体分享。
+        - title: Ray.so
+          logo: https://ray.so/favicon.ico
+          url: https://ray.so/
+          description: Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
     - term: 图标素材
       links:
         - title: iconfont
