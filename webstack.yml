@@ -14,18 +14,6 @@
     - title: NextChat
       url: https://chat.grew.cc/
       description: NextChat 是一个跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。
-    - title: 订阅转换
-      url: https://sub.grew.cc/
-      description: 订阅转换。
-    - title: sublink worker
-      url: https://sublink.grew.cc/
-      description: 订阅转换。
-    - title: Stirling PDF
-      url: https://pdf.grew.cc/
-      description: PDF全能工具。
-    - title: RSSHub
-      url: https://rsshub.grew.cc/
-      description: RSSHub。
     - title: Bing 每日壁纸 API
       url: https://bing.grew.cc/
       description: Bing 每日壁纸 API。
@@ -35,18 +23,12 @@
     - title: TG 图床
       url: https://img.grew.cc
       description: TG 图床。
-    - title: IP查询
-      url: https://ip.grew.cc/
-      description: IP查询。
     - title: Linux命令搜索
       url: https://linux.grew.cc
       description: Linux命令搜索。
     - title: markdown转html
       url: https://md2.grew.cc/
       description: markdown转html。
-    - title: 哪吒监控
-      url: https://jk.grew.cc/
-      description: 哪吒监控。
     - title: Status
       url: https://status.grew.cc/
       description: 网站状态监控。
@@ -168,6 +150,9 @@
           logo: images/logos/yts.ico
           url: https://yts.mx/
           description: 最小文件大小的高清电影（仅电影）。
+        - title: 'YTS MX: The Official Home of YIFY Movies | YTS.MX | 2023'
+          url: https://en.rarbg-official.com/
+          description: 下载 YTS YIFY 电影：高清最小尺寸。
         - title: EZTVx
           url: https://eztvx.to/
           description: EZTVx 是一个专门为电视节目爱好者提供的电视节目下载网站。
@@ -199,7 +184,7 @@
           url: https://www.mjf2020.com/
           description: 美剧下载。
         - title: 无名小站
-          url: https://www.btnull.fun/
+          url: https://www.gying.in/
           description: 原片库网。
         - title: 磁力熊
           url: https://www.cilixiong.com/
@@ -207,10 +192,6 @@
         - title: 不太灵影视
           url: https://www.2bt0.com/
           descpiprion: 不太灵影视。
-        - title: 'YTS MX: The Official Home of YIFY Movies | YTS.MX | 2023'
-          logo: https://en.rarbg-official.com/img/YIFY-FAV.png
-          url: https://en.rarbg-official.com/
-          description: The official 2023 YTS YIFY Movies Torrents New site. Download free yify movies torrents in 720p, 1080p and 3D quality. The fastest downloads at the smallest size.
     - term: 字幕下载
       links:
         - title: SubHD
@@ -354,6 +335,10 @@
         - title: Test AD Block
           url: https://d3ward.github.io/toolz/adblock.html
           descriprion: 广告拦截测试。
+        - title: Subtitle Tools
+          logo: https://subtitletools.com/favicon.png
+          url: https://subtitletools.com/
+          description: This website is full of free tools to fix your subtitles. If you need to convert, sync, or clean your subtitles, then this is the right place.
     - term: 网络工具
       links:
         - title: IP可用性检测
@@ -493,6 +478,10 @@
         - title: VividShare
           url: https://vividshare.io/
           description: VividShare 可以帮助您从推文、推荐信、文本、截图、代码等创建令人惊叹的营销资产，用于社交媒体分享。
+        - title: Ray.so
+          logo: https://ray.so/favicon.ico
+          url: https://ray.so/
+          description: Turn your code into beautiful images. Choose from a range of syntax colors, hide or show the background, and toggle between a dark and light window.
     - term: 图标素材
       links:
         - title: iconfont
