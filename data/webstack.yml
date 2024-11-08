@@ -14,18 +14,6 @@
     - title: NextChat
       url: https://chat.grew.cc/
       description: NextChat 是一个跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。
-    - title: 订阅转换
-      url: https://sub.grew.cc/
-      description: 订阅转换。
-    - title: sublink worker
-      url: https://sublink.grew.cc/
-      description: 订阅转换。
-    - title: Stirling PDF
-      url: https://pdf.grew.cc/
-      description: PDF全能工具。
-    - title: RSSHub
-      url: https://rsshub.grew.cc/
-      description: RSSHub。
     - title: Bing 每日壁纸 API
       url: https://bing.grew.cc/
       description: Bing 每日壁纸 API。
@@ -35,18 +23,12 @@
     - title: TG 图床
       url: https://img.grew.cc
       description: TG 图床。
-    - title: IP查询
-      url: https://ip.grew.cc/
-      description: IP查询。
     - title: Linux命令搜索
       url: https://linux.grew.cc
       description: Linux命令搜索。
     - title: markdown转html
       url: https://md2.grew.cc/
       description: markdown转html。
-    - title: 哪吒监控
-      url: https://jk.grew.cc/
-      description: 哪吒监控。
     - title: Status
       url: https://status.grew.cc/
       description: 网站状态监控。
