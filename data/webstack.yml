@@ -81,7 +81,7 @@
           url: https://ymck.pro/
           description: 电影网站目录。
         - title: 玩偶哥哥
-          url: https://www.wogg.xyz/
+          url: https://www.wogg.net/
           description: 阿里云盘影视资源站。网站只收录1080P以上画质影视，影视资源较新，无需注册登录，点击跳转阿里云盘链接，可直接转存下载。
         - title: 盘有圈
           url: https://panyq.com/
@@ -89,16 +89,9 @@
         - title: 云盘盘
           url: https://www.yppan.com/
           description: 阿里云盘资源分享。
-        - title: YaPan
-          url: https://yapan.io/
-          description: 阿里云盘资源分享。
         - title: 阿里云盘影视论坛
           logo: images/logos/aliyunpan.ico
           url: https://drivebbs.com/forum.php
-          description: 阿里云盘资源分享。
-        - title: 阿里云盘分享文档
-          logo: images/logos/aliyunpan.ico
-          url: https://docs.qq.com/sheet/DVHpJVmRhT3ViV09Q?tab=BB08J2
           description: 阿里云盘资源分享。
         - title: 爱达杂货铺
           logo: images/logos/adzhp.ico
@@ -106,7 +99,7 @@
           description: 免费在线视频网站资源索引。
         - title: 饭太硬
           logo: images/logos/fty.ico
-          url: https://www.xn--sss604efuw.top/
+          url: https://www.xn--sss604efuw.com/
           description: TV-Box导航。
         - title: Netflix全球搜索
           url: https://unogs.com/
@@ -233,7 +226,10 @@
         - title: 纪录之家字幕组
           url: https://weibo.com/jlpzjsub
           description: 纪录之家字幕组。
-
+        - title: Subtitle Tools
+          url: https://subtitletools.com/
+          description: 字幕在线同步、修复、转换工具。
+          
 
 
 - taxonomy: 工具集合
